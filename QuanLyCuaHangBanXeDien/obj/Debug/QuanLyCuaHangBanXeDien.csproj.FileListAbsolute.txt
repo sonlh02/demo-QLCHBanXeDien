@@ -1,0 +1,12 @@
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.csproj.AssemblyReference.cache
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.csproj.SuggestedBindingRedirects.cache
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.Form1.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmdangnhap.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.Properties.Resources.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.csproj.GenerateResource.cache
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.csproj.CoreCompileInputs.cache
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\bin\Debug\QuanLyCuaHangBanXeDien.exe.config
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\bin\Debug\QuanLyCuaHangBanXeDien.exe
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\bin\Debug\QuanLyCuaHangBanXeDien.pdb
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.exe
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.pdb
