@@ -16,5 +16,19 @@ namespace QuanLyCuaHangBanXeDien
         {
             InitializeComponent();
         }
+
+        private void đăngNhậpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmdangnhap frm = new frmdangnhap();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void kháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmkhachhang frm = new frmkhachhang();
+            frm.MdiParent = this;
+            frm.Show();
+        }
     }
 }

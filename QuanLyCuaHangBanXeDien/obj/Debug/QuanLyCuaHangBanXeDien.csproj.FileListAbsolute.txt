@@ -10,3 +10,5 @@ C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\bin\Debu
 C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\bin\Debug\QuanLyCuaHangBanXeDien.pdb
 C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.exe
 C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.pdb
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmkhachhang.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmnhanvien.resources
