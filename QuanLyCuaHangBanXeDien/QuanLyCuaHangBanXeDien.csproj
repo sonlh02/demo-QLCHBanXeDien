@@ -52,11 +52,35 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmbanhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbanhang.Designer.cs">
+      <DependentUpon>frmbanhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbaohanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbaohanh.Designer.cs">
+      <DependentUpon>frmbaohanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmchitiethoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmchitiethoadon.Designer.cs">
+      <DependentUpon>frmchitiethoadon.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmdangnhap.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmdangnhap.Designer.cs">
       <DependentUpon>frmdangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmhoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhoadon.Designer.cs">
+      <DependentUpon>frmhoadon.cs</DependentUpon>
     </Compile>
     <Compile Include="frmkhachhang.cs">
       <SubType>Form</SubType>
@@ -64,11 +88,29 @@
     <Compile Include="frmkhachhang.Designer.cs">
       <DependentUpon>frmkhachhang.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmloaixe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmloaixe.Designer.cs">
+      <DependentUpon>frmloaixe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmnhacungcap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmnhacungcap.Designer.cs">
+      <DependentUpon>frmnhacungcap.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmnhanvien.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmnhanvien.Designer.cs">
       <DependentUpon>frmnhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmtracuu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtracuu.Designer.cs">
+      <DependentUpon>frmtracuu.cs</DependentUpon>
     </Compile>
     <Compile Include="frmxedien.cs">
       <SubType>Form</SubType>
@@ -82,14 +124,35 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmbanhang.resx">
+      <DependentUpon>frmbanhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbaohanh.resx">
+      <DependentUpon>frmbaohanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmchitiethoadon.resx">
+      <DependentUpon>frmchitiethoadon.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmdangnhap.resx">
       <DependentUpon>frmdangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhoadon.resx">
+      <DependentUpon>frmhoadon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmkhachhang.resx">
       <DependentUpon>frmkhachhang.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmloaixe.resx">
+      <DependentUpon>frmloaixe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmnhacungcap.resx">
+      <DependentUpon>frmnhacungcap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmnhanvien.resx">
       <DependentUpon>frmnhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtracuu.resx">
+      <DependentUpon>frmtracuu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmxedien.resx">
       <DependentUpon>frmxedien.cs</DependentUpon>

@@ -32,6 +32,7 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.dgvkhachhang = new System.Windows.Forms.DataGridView();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.btnthem = new System.Windows.Forms.Button();
             this.btnmoi = new System.Windows.Forms.Button();
             this.btnthoat = new System.Windows.Forms.Button();
             this.btnxoa = new System.Windows.Forms.Button();
@@ -80,6 +81,7 @@
             // groupBox2
             // 
             this.groupBox2.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox2.Controls.Add(this.btnthem);
             this.groupBox2.Controls.Add(this.btnmoi);
             this.groupBox2.Controls.Add(this.btnthoat);
             this.groupBox2.Controls.Add(this.btnxoa);
@@ -89,10 +91,29 @@
             this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox2.Size = new System.Drawing.Size(1342, 315);
+            this.groupBox2.Size = new System.Drawing.Size(1342, 71);
             this.groupBox2.TabIndex = 4;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Các chức năng";
+            // 
+            // btnthem
+            // 
+            this.btnthem.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnthem.BackgroundImage")));
+            this.btnthem.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnthem.FlatAppearance.BorderSize = 0;
+            this.btnthem.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnthem.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnthem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnthem.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
+            this.btnthem.Location = new System.Drawing.Point(379, 26);
+            this.btnthem.Margin = new System.Windows.Forms.Padding(4);
+            this.btnthem.Name = "btnthem";
+            this.btnthem.Size = new System.Drawing.Size(102, 41);
+            this.btnthem.TabIndex = 3;
+            this.btnthem.Text = "Thêm";
+            this.btnthem.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnthem.UseVisualStyleBackColor = true;
+            this.btnthem.Click += new System.EventHandler(this.btnthem_Click);
             // 
             // btnmoi
             // 
@@ -103,7 +124,7 @@
             this.btnmoi.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnmoi.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnmoi.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
-            this.btnmoi.Location = new System.Drawing.Point(375, 26);
+            this.btnmoi.Location = new System.Drawing.Point(199, 26);
             this.btnmoi.Margin = new System.Windows.Forms.Padding(4);
             this.btnmoi.Name = "btnmoi";
             this.btnmoi.Size = new System.Drawing.Size(102, 41);
@@ -112,7 +133,6 @@
             this.btnmoi.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnmoi.UseVisualStyleBackColor = true;
             this.btnmoi.Click += new System.EventHandler(this.btnmoi_Click);
-
             // 
             // btnthoat
             // 
@@ -167,6 +187,7 @@
             this.btnsua.Text = "Sửa   ";
             this.btnsua.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnsua.UseVisualStyleBackColor = true;
+            this.btnsua.Click += new System.EventHandler(this.btnsua_Click);
             // 
             // groupBox1
             // 
@@ -190,7 +211,7 @@
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox1.Size = new System.Drawing.Size(1342, 460);
+            this.groupBox1.Size = new System.Drawing.Size(1342, 216);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Khách Hàng";
@@ -374,5 +395,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DateTimePicker dtpngaysinh;
         private System.Windows.Forms.ComboBox cbbgioitinh;
+        private System.Windows.Forms.Button btnthem;
     }
 }

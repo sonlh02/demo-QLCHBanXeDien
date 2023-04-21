@@ -12,3 +12,11 @@ C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debu
 C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.pdb
 C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmkhachhang.resources
 C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmnhanvien.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmbaohanh.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmchitiethoadon.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmhoadon.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmloaixe.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmnhacungcap.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmxedien.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmbanhang.resources
+C:\Project\WebsiteBanHang\QuanLyCuaHangBanXeDien\QuanLyCuaHangBanXeDien\obj\Debug\QuanLyCuaHangBanXeDien.frmtracuu.resources
